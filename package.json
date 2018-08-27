@@ -1,0 +1,19 @@
+{
+  "name": "rhymebook",
+  "version": "1.0.0",
+  "description": "NodeJS Notebook application featuring a rhyming dictionary and other tools for songwriters",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devrolet/rhymebook.git"
+  },
+  "author": "Chet Hill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devrolet/rhymebook/issues"
+  },
+  "homepage": "https://github.com/devrolet/rhymebook#readme"
+}
